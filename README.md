@@ -1,4 +1,5 @@
 # Calendar-App
-Aplicacion de calendario para manejar eventos 
+Aplicacion de calendario para manejar eventos
+Stack MERN
 
 
